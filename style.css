@@ -1,0 +1,22 @@
+div{
+    height: 50px;
+    margin: 30px;
+    border-top:1px solid #989EA4; ;
+    border-bottom: 1px solid #989EA4;
+    background: #B8C1C8;
+    font-size: 2.5rem;
+    position: sticky;
+    top: 10px;
+
+}
+li {
+    font: bold 20px Helvetica, Arial, sans-serif;
+   white-space: inherit;
+   
+  }
+ul{
+    font-size: 1.2rem;
+}
+h1{
+    font-size: 3rem;
+}
